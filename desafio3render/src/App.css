@@ -1,0 +1,13 @@
+
+section{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+article{
+  border: 2px solid black;
+  backGround-Color: rgb(0, 255, 94);
+  width: 280px;
+}
